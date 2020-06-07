@@ -9,7 +9,6 @@ coverage/
 *.map
 *.d.ts
 *.metadata.json
-*.js
 # overrides for js
 !config/*
 !copy.js
