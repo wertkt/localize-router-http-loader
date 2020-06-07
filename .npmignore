@@ -23,7 +23,7 @@ tsconfig.json
 tslint.json
 !*.metadata.json
 !bundles/*.js
-.*
+
 
 ############
 ## Windows
